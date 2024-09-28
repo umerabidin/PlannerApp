@@ -1,0 +1,62 @@
+{
+  "appName": {
+    "full": "React Native GoalMap",
+    "initials": "RNB"
+  },
+  "tabs": {
+    "goals": "Goals",
+    "quotes": "Quotes",
+    "images": "Images"
+  },
+  "settings": {
+    "title": "Settigns",
+    "dark": "Dark Mode",
+    "lang": "Language"
+  },
+  "edit": {
+    "name": "Enter new name",
+    "description": "Enter new description",
+    "edit": "Edit",
+    "editTime": "Edit time and duration"
+  },
+  "abr": {
+    "hour": "g",
+    "min": "m"
+  },
+  "picker": {
+    "endDate": "Target date:",
+    "enterDate": "Press to pick",
+    "agendaDate": "Day in the agenda:",
+    "duration": "Total time to complete:",
+    "enterTime": "Press to set",
+    "time": "Time of the day:",
+    "Monday": "Monday:" ,
+    "Tuesday": "Tuesday:" ,
+    "Wednesday": "Wednesday:",
+    "Thursday": "Thursday:",
+    "Friday":  "Friday:",
+    "Saturday": "Saturday:",
+    "Sunday": "Sunday:"
+  },
+  "buttonText": {
+    "addTask": "Add Task",
+    "addGoal": "Add Goal",
+    "goToTasks": "Go to Tasks List",
+    "register": "Create an account",
+    "login": "Sign in",
+    "addAgendaItem": "Add to agenda",
+    "fillWeek": "Fill week",
+    "generateTasks": "Generate tasks",
+    "saveTasks": "Save tasks"
+  },
+  "textInput": {
+    "email": "E-mail address",
+    "username": "Username",
+    "password": "Password",
+    "repeat": "Repeat password",
+    "title": "Write what's your goal",
+    "description": "Describe what it means to you to achieve this goal",
+    "taskName": "What will you do to achieve it?",
+    "taskDescription": "Describe in detail what action will you take"
+  }
+}

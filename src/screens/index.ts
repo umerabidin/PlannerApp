@@ -1,0 +1,13 @@
+export { default as Quotes } from '@/screens/Quotes/Quotes';
+export { default as Goals } from './Goals/Goals';
+export { default as Register } from '@/screens/Settings/Register/Register';
+export { default as Tasks } from '@/screens/Tasks/Tasks';
+export { default as Settings } from '@/screens/Settings/Settings';
+export { default as Calendar } from '@/screens/Calendar/Calendar';
+export { default as AddToAgenda } from '@/screens/AddToAgenda/AddToAgenda';
+export { default as AddGoal } from '@/screens/Goals/AddGoal';
+export { default as AddTask } from '@/screens/Tasks/AddTask';
+export { default as Login } from '@/screens/Settings/Login/Login';
+export { default as GoalDetails } from '@/screens/Goals/GoalDetails';
+export { default as FillAgendaWeek } from '@/screens/Calendar/FillAgendaWeek/FillAgendaWeek';
+export { default as GenerateTasks } from '@/screens/Tasks/GenerateTasks';

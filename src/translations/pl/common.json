@@ -1,0 +1,62 @@
+{
+  "appName": {
+    "full": "PlannerApp",
+    "initials": "PA"
+  },
+  "tabs": {
+    "goals": "Cele",
+    "quotes": "Cytaty",
+    "images": "Obrazki"
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "dark": "Tryb Ciemny",
+    "lang": "Język"
+  },
+  "edit": {
+    "name": "Wprowadź nową nazwę",
+    "description": "Wprowadź nowy opis",
+    "edit": "Edytuj",
+    "editTime": "Edit time and duration"
+  },
+  "abr": {
+    "hour": "h",
+    "min": "m"
+  },
+  "common": {
+    "endDate": "Termin docelowy:",
+    "enterDate": "Dotknij by wybrać",
+    "agendaDate": "Dzień w terminarzu:",
+    "duration": "Całkowity czas do ukończenia:",
+    "enterTime": "Dotknij by ustawić",
+    "time": "Czas dnia:",
+    "Monday": "Poniedziałek:" ,
+    "Tuesday": "Wtorek:" ,
+    "Wednesday": "Środa:",
+    "Thursday": "Czwartek:",
+    "Friday":  "Piątek:",
+    "Saturday": "Sobota:",
+    "Sunday": "Niedziela:"
+  },
+  "buttonText": {
+    "addTask": "Dodaj Zadanie",
+    "addGoal": "Dodaj Cel",
+    "goToTasks": "Przejdź do Listy Zadań",
+    "register": "Załóż konto",
+    "login": "Zaloguj się",
+    "addAgendaItem": "Dodaj do terminarza",
+    "fillWeek": "Wypełnij tydzień",
+    "generateTasks": "Wygeneruj zadania",
+    "saveTasks": "Zapisz zadania"
+  },
+  "textInput": {
+    "email": "Adres e-mail",
+    "username": "Nazwa użytkownika",
+    "password": "Hasło",
+    "repeat": "Powtórz hasło",
+    "title": "Napisz co chcesz osiągnąć",
+    "description": "Opisz krótko co dla Ciebie oznacza osiągnięcie tego celu",
+    "taskName": "Co zrobisz by osiągnąć ten cel?",
+    "taskDescription": "Opisz dokładniej jakie działania podejmiesz"
+  }
+}
